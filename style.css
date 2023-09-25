@@ -1,1 +1,33 @@
-
+body{
+background-color: #e2a968;
+margin-top: 0;
+margin-bottom: 0;
+margin-right: 0;
+margin-left: 0;
+}
+.cabecario{
+    background-color: #f0c799;
+    color: #bd7523b9;
+    font-size: 70px;
+    margin-top: 0;
+    padding: 1px;
+    text-align: center;
+}
+.principal{
+background-color: #b8752a9f;
+padding: 70px;
+display: flex;
+justify-content: center;
+}
+.cavalo{
+    width: 300px;
+    border-radius: 100%;
+}
+.rodape{
+    background-color: #f0c799;
+    color:#bd7523b9 ;
+    font-size: 70px;
+    margin-top:0 ;
+    padding:1px ;
+    text-align: center;
+}
